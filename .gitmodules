@@ -1,0 +1,9 @@
+[submodule "extern/ControlNet-v1-1"]
+	path = extern/ControlNet-v1-1
+	url = https://github.com/lllyasviel/ControlNet-v1-1-nightly.git
+[submodule "extern/GeoWizard"]
+	path = extern/GeoWizard
+	url = https://github.com/fuxiao0719/GeoWizard.git
+[submodule "extern/InstantMesh"]
+	path = extern/InstantMesh
+	url = https://github.com/TencentARC/InstantMesh.git
