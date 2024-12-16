@@ -1,6 +1,8 @@
 # 3DGen: Step III
 # Step 1: Set up the required environment for InstantMesh
 
+mv script/InstantMesh/app.py extern/InstantMesh/app.py
+mv script/InstantMesh/run.py extern/InstantMesh/run.py
 # Step 2: Prepare the modified image prompt from extern/ControlNet-v1-1/output
 cd extern/InstantMesh
 python app.py # which will open a public gradio interface where you can operate.
