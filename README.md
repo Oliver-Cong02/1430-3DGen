@@ -16,3 +16,9 @@ Run any image-to-3D models to generate new 3D assets following
 ```
 bash ./script/step3.sh
 ```
+
+## Presentation PPT
+Our presentation powerpoint is available at
+```
+./3DGen.pdf
+```
